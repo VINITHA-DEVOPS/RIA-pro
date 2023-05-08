@@ -3,5 +3,9 @@ Age:
 Adress:
 DOB:
 Contact details:
-Emai ID:
+Salary:
+Exp:
+CTC:
+Current working project:
+Expected:ctc
 
