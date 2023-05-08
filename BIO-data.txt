@@ -8,4 +8,14 @@ Exp:
 CTC:
 Current working project:
 Expected:ctc
+Name:
+Age:
+Adress:
+DOB:
+Contact details:
+Salary:
+Exp:
+CTC:
+Current working project:
+Expected:ctc
 
