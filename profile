@@ -1,3 +1,5 @@
-
-Name:
+name:
 Age:
+Adress:
+Email:
+
