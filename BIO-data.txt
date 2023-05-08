@@ -1,0 +1,7 @@
+Name:
+Age:
+Adress:
+DOB:
+Contact details:
+Emai ID:
+
